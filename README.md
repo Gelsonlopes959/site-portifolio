@@ -20,7 +20,20 @@ Esse e um projeto de fatuaracao eletronina de cabo verde
 ### Rede social
 [Instagram](https://www.instagram.com/)
 
-[Youtobe](https://www.youtube.com/@SocialArts
+[Youtobe](https://www.youtube.com/@SocialArts)
 >Este e um bloco utilizado para destacar uma area.
-
+>
 >Segunda area destacada
+
+*Comando para rodar o progeto*
+
+```
+npm start
+```
+*Exemplo de uso do escrito*
+```js
+function showName(name){
+    return 'Bem vindo'
+}
+
+```
