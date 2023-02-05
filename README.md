@@ -10,6 +10,10 @@ Esse e um projeto de fatuaracao eletronina de cabo verde
 * Compras
 * Contabilidade
 
+1. Gestao Microcredito
+2. Gestao Socio
+3. Gestao Stock
+
 ### Rede social
 [Instagram](https://www.instagram.com/)
 
