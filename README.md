@@ -3,5 +3,5 @@ Esse e um projeto de fatuaracao eletronina de cabo verde
 
 
 ## Modulos:
-Trabalhando com gits,
-Entendento tudo sobre girt
+Trabalhando com **gits**,
+Entendento tudo _sobre girt_
