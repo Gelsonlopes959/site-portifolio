@@ -5,8 +5,10 @@ Esse e um projeto de fatuaracao eletronina de cabo verde
 
 
 ## Modulos:
-Trabalhando com **gits**,
-Entendento tudo _sobre girt_
+* Tesouraria
+* Vendas
+* Compras
+* Contabilidade
 
 ### Rede social
 [Instagram](https://www.instagram.com/)
