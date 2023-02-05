@@ -2,9 +2,9 @@
 ![logo do git](https://cabosys.cv/web/image/res.company/1/logo?unique=bcf0f5e)
 
 [Bem vindo](#bem-vindo-ao-curso-git-e-github) |
-[Modulos](#modulos)
-[Rede social](#rede-social)
-[Comandos](#modulos)
+[Modulos](#modulos) |
+[Rede social](#rede-social) |
+[Comandos](#comando-para-rodar-o-progeto)
 # Bem vindo ao curso Git e Github
 Esse e um projeto de fatuaracao eletronina de cabo verde
 
