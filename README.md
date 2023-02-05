@@ -3,6 +3,11 @@
 # Bem vindo ao curso Git e Github
 Esse e um projeto de fatuaracao eletronina de cabo verde
 
+**Ultimas atualizacao**
+- [X] Site responsivo
+- [ ] Login com facebook
+- [ ] Pagina sobre criar empresa
+
 
 ## Modulos:
 * Tesouraria
