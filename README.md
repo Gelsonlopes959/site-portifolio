@@ -9,16 +9,18 @@ Esse e um projeto de fatuaracao eletronina de cabo verde
 * Vendas
 * Compras
 * Contabilidade
-
 1. Gestao Microcredito
 
-        1. Solicitacao
+    1. Solicitacao
 
-        2. Ata
+    2. Ata
 2. Gestao Socio
 3. Gestao Stock
 
 ### Rede social
 [Instagram](https://www.instagram.com/)
 
-[Youtobe](https://www.youtube.com/@SocialArts)
+[Youtobe](https://www.youtube.com/@SocialArts
+>Este e um bloco utilizado para destacar uma area.
+
+>Segunda area destacada
