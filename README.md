@@ -63,9 +63,9 @@ function showName(name){
 def contabilisar(self):
     print('Contabilizado')
 ```
-Propiadades | Descricao
------------ | ---------
-name | Imformar o nome do usuario
-size | Para definir o tamanho do campo
-background | Cor de fundo da area
-onPress | Funcao chamada quando clicar no botao
+Propiadades |Propiadades | Descricao
+----------- | --------- | ----------
+![logo do git](https://cabosys.cv/web/image/res.company/1/logo?unique=bcf0f5e) | name | Imformar o nome do usuario
+![logo do git](https://cabosys.cv/web/image/res.company/1/logo?unique=bcf0f5e) | size | Para definir o tamanho do campo
+![logo do git](https://cabosys.cv/web/image/res.company/1/logo?unique=bcf0f5e) | background | Cor de fundo da area
+![logo do git](https://cabosys.cv/web/image/res.company/1/logo?unique=bcf0f5e) | onPress | Funcao chamada quando clicar no botao
