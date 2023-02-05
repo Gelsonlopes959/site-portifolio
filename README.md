@@ -12,9 +12,9 @@ Esse e um projeto de fatuaracao eletronina de cabo verde
 
 1. Gestao Microcredito
 
-        1.1 Solicitacao
+        1. Solicitacao
 
-        1.2 Ata
+        2. Ata
 2. Gestao Socio
 3. Gestao Stock
 
