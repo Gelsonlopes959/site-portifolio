@@ -63,3 +63,9 @@ function showName(name){
 def contabilisar(self):
     print('Contabilizado')
 ```
+Propiadades | Descricao
+----------- | ---------
+name | Imformar o nome do usuario
+size | Para definir o tamanho do campo
+background | Cor de fundo da area
+onPress | Funcao chamada quando clicar no botao
