@@ -30,10 +30,31 @@ Esse e um projeto de fatuaracao eletronina de cabo verde
 ```
 npm start
 ```
-*Exemplo de uso do escrito*
+*Exemplo de uso do escript*
 ```js
 function showName(name){
     return 'Bem vindo'
 }
 
+```
+
+*Uso do componente de HTML*
+```html
+<h1>
+    Titulo de Progeto
+    <span>Curso git</span>
+</h1>
+```
+**CSS Padrao do projeto**
+```css
+.titulo{
+    baackground-color:#FFF;
+    color:#FF0000;
+}
+```
+
+**Codigo pyton**
+```python
+def contabilisar(self):
+    print('Contabilizado')
 ```
