@@ -1,5 +1,10 @@
 
 ![logo do git](https://cabosys.cv/web/image/res.company/1/logo?unique=bcf0f5e)
+
+[Bem vindo](#bem-vindo-ao-curso-git-e-github) |
+[Modulos](#modulos)
+[Rede social](#rede-social)
+[Comandos](#modulos)
 # Bem vindo ao curso Git e Github
 Esse e um projeto de fatuaracao eletronina de cabo verde
 
@@ -30,7 +35,7 @@ Esse e um projeto de fatuaracao eletronina de cabo verde
 >
 >Segunda area destacada
 
-*Comando para rodar o progeto*
+### Comando para rodar o progeto
 
 ```
 npm start
@@ -63,9 +68,10 @@ function showName(name){
 def contabilisar(self):
     print('Contabilizado')
 ```
-Propiadades |Propiadades | Descricao
+Imagens |Propiadades | Descricao
 ----------- | --------- | ----------
 ![logo do git](https://cabosys.cv/web/image/res.company/1/logo?unique=bcf0f5e) | name | Imformar o nome do usuario
 ![logo do git](https://cabosys.cv/web/image/res.company/1/logo?unique=bcf0f5e) | size | Para definir o tamanho do campo
 ![logo do git](https://cabosys.cv/web/image/res.company/1/logo?unique=bcf0f5e) | background | Cor de fundo da area
 ![logo do git](https://cabosys.cv/web/image/res.company/1/logo?unique=bcf0f5e) | onPress | Funcao chamada quando clicar no botao
+
